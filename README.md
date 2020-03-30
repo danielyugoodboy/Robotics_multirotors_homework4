@@ -3,3 +3,4 @@
 # Homework4
 
 Please read HW4.pdf.
+<img src="https://github.com/Robotics-Aerial-Robots/Homework4/blob/master/HW4.png" width="40%" height="30%">	
